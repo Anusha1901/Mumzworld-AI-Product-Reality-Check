@@ -1,0 +1,809 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "title": "Pampers Premium Care Newborn Diapers",
+      "category": "Diapers",
+      "price_aed": 89.00,
+      "rating": 4.3,
+      "description": "Ultra-soft diapers designed for newborn skin. Features an extra-soft layer, wetness indicator, and up to 12-hour protection. Dermatologically tested and hypoallergenic. Available in sizes NB to Size 6.",
+      "features": [
+        "Wetness indicator turns yellow to blue when wet",
+        "Extra-soft inner layer for sensitive newborn skin",
+        "Up to 12-hour overnight protection",
+        "Hypoallergenic and dermatologically tested",
+        "Stretchy waistband for comfortable fit"
+      ],
+      "reviews": [
+        {
+          "id": "R001",
+          "lang": "en",
+          "rating": 5,
+          "text": "Absolutely love these diapers! My newborn has very sensitive skin and we had zero rashes. The wetness indicator is a lifesaver during the night — I don't have to unwrap the baby just to check."
+        },
+        {
+          "id": "R002",
+          "lang": "en",
+          "rating": 4,
+          "text": "Great diaper overall. Soft and gentle. Only issue is the sizing runs a bit small — my baby outgrew newborn size in 3 weeks. Would recommend sizing up earlier than you think."
+        },
+        {
+          "id": "R003",
+          "lang": "ar",
+          "rating": 5,
+          "text": "أفضل حفاضات استخدمتها لطفلي. جلده حساس جداً ولم يظهر أي احمرار. الطبقة الداخلية ناعمة جداً وتمتص بشكل ممتاز طوال الليل."
+        },
+        {
+          "id": "R004",
+          "lang": "en",
+          "rating": 3,
+          "text": "Good quality but expensive. Had a couple of blowouts when baby had a growth spurt and we were still in the smaller size. The tabs are strong but once you unstick them they don't restick well."
+        },
+        {
+          "id": "R005",
+          "lang": "en",
+          "rating": 5,
+          "text": "Best overnight diaper. My 2-month-old sleeps 7 hours and the diaper holds up perfectly with zero leaks. Worth every dirham."
+        },
+        {
+          "id": "R006",
+          "lang": "ar",
+          "rating": 4,
+          "text": "جودة ممتازة وناعمة على جلد الطفل. السعر مرتفع نسبياً مقارنة بالبدائل الأخرى لكن يستحق للبشرة الحساسة. المقاسات دقيقة."
+        },
+        {
+          "id": "R007",
+          "lang": "en",
+          "rating": 2,
+          "text": "Disappointed. My baby had a rash after just 2 days. Maybe it's just my baby's skin but I switched brands and the rash cleared up. Not for everyone with sensitive skin it seems."
+        },
+        {
+          "id": "R008",
+          "lang": "en",
+          "rating": 4,
+          "text": "Really soft and the fit is snug without being tight. The blowout guard at the back works well. A little pricey but I buy during sale and stock up."
+        },
+        {
+          "id": "R009",
+          "lang": "en",
+          "rating": 5,
+          "text": "Used these from day 1 in the hospital. Nurses recommended them. Zero leaks, zero rashes, zero complaints. My go-to diaper."
+        },
+        {
+          "id": "R010",
+          "lang": "en",
+          "rating": 3,
+          "text": "Decent diaper. Nothing exceptional. The wetness indicator fades too quickly and becomes hard to read in dim light at night. Expected more for this price."
+        }
+      ]
+    },
+    {
+      "id": "P002",
+      "title": "Johnson's Baby Shampoo No More Tears",
+      "category": "Baby Shampoo",
+      "price_aed": 24.50,
+      "rating": 4.1,
+      "description": "Gentle baby shampoo and body wash formulated for sensitive baby skin and eyes. No more tears formula is as gentle as pure water. Free from parabens, phthalates, and sulfates. Suitable from birth.",
+      "features": [
+        "No more tears — as gentle as pure water on eyes",
+        "Paraben, phthalate, and sulfate free",
+        "Dermatologist and ophthalmologist tested",
+        "Gentle enough for daily use",
+        "Mild, pleasant baby scent"
+      ],
+      "reviews": [
+        {
+          "id": "R011",
+          "lang": "en",
+          "rating": 5,
+          "text": "Classic for a reason. My baby never cries during bath time even when shampoo gets near the eyes. The formula is incredibly gentle. We've used it since birth and skin stays moisturised."
+        },
+        {
+          "id": "R012",
+          "lang": "en",
+          "rating": 4,
+          "text": "Good shampoo, cleans well without stripping natural oils. Doesn't lather much which some people don't like but actually better for baby's scalp. Scent is soft and lovely."
+        },
+        {
+          "id": "R013",
+          "lang": "ar",
+          "rating": 5,
+          "text": "شامبو ممتاز، لطيف جداً على فروة رأس طفلتي. لا تبكي أبداً حتى لو دخل الماء بالقرب من عينيها. نستخدمه يومياً بدون أي مشكلة."
+        },
+        {
+          "id": "R014",
+          "lang": "en",
+          "rating": 2,
+          "text": "Didn't work well for cradle cap at all. Had to switch to a medicated shampoo. For a normal clean it's fine but if your baby has scalp issues this won't help."
+        },
+        {
+          "id": "R015",
+          "lang": "en",
+          "rating": 3,
+          "text": "It's okay. Gentle yes, but doesn't really clean if your baby has a lot of hair. I use it for my 3-month-old but already looking at alternatives for when she has more hair."
+        },
+        {
+          "id": "R016",
+          "lang": "en",
+          "rating": 4,
+          "text": "Tried many baby shampoos and always come back to this one. No reactions, no dryness, smells wonderful. The price is also very reasonable on Mumzworld."
+        },
+        {
+          "id": "R017",
+          "lang": "ar",
+          "rating": 3,
+          "text": "جيد للاستخدام اليومي لكن لا يعالج قشرة رأس الطفل. رائحته لطيفة وخفيفة. للبشرة الحساسة مناسب."
+        },
+        {
+          "id": "R018",
+          "lang": "en",
+          "rating": 5,
+          "text": "My daughter is 6 months old and has had no skin reactions whatsoever. We use it as a 2-in-1 for body and hair. Great value and widely available."
+        },
+        {
+          "id": "R019",
+          "lang": "en",
+          "rating": 1,
+          "text": "My baby had a reaction — redness around the hairline and forehead. Stopped using immediately. May just be my baby's skin but would caution parents of very sensitive babies."
+        },
+        {
+          "id": "R020",
+          "lang": "en",
+          "rating": 4,
+          "text": "Soft, gentle, affordable. What more do you need from a baby shampoo? It doesn't tackle heavy buildup but for daily gentle washing it's perfect."
+        }
+      ]
+    },
+    {
+      "id": "P003",
+      "title": "Dr. Brown's Original Wide-Neck Baby Bottle 270ml",
+      "category": "Baby Bottle",
+      "price_aed": 52.00,
+      "rating": 4.5,
+      "description": "Clinically proven to reduce colic, gas, and spit-up. Features a patented internal vent system that keeps air out of the nipple and liquid. Wide neck for easy cleaning and breastfeeding transition. BPA-free.",
+      "features": [
+        "Internal vent system reduces colic, gas, spit-up and burping",
+        "Wide neck for breastfeeding transition",
+        "BPA, BPS, and BPF free",
+        "Compatible with most breast pumps",
+        "Dishwasher safe — top rack"
+      ],
+      "reviews": [
+        {
+          "id": "R021",
+          "lang": "en",
+          "rating": 5,
+          "text": "Complete game changer for our gassy baby. We tried 3 other bottles before this and the difference was night and day. Baby barely needs to burp after feeds now. The vent system actually works."
+        },
+        {
+          "id": "R022",
+          "lang": "en",
+          "rating": 4,
+          "text": "Great bottle and definitely reduces gas. The only downside is cleaning — there are many parts to the vent system and they need thorough cleaning or milk residue builds up. Use the included brush."
+        },
+        {
+          "id": "R023",
+          "lang": "ar",
+          "rating": 5,
+          "text": "أفضل رضاعة جربتها. ابني كان يعاني من المغص الشديد وبعد استخدام هذه الرضاعة تحسن كثيراً. التهوية الداخلية تمنع ابتلاع الهواء فعلاً."
+        },
+        {
+          "id": "R024",
+          "lang": "en",
+          "rating": 5,
+          "text": "Pediatrician recommended this to us when our baby had reflux. It genuinely helped reduce spit-up episodes. Easy to hold for baby too. Pricey but worth it for a colicky baby."
+        },
+        {
+          "id": "R025",
+          "lang": "en",
+          "rating": 3,
+          "text": "The bottle works but the number of parts is frustrating. There are 5 pieces per bottle and if you lose the vent insert it becomes a regular bottle. Not travel-friendly at all."
+        },
+        {
+          "id": "R026",
+          "lang": "en",
+          "rating": 4,
+          "text": "Baby took to this bottle immediately after breastfeeding which is not easy to achieve. The wide neck nipple shape helps a lot with the transition. Cleaning is annoying but manageable."
+        },
+        {
+          "id": "R027",
+          "lang": "ar",
+          "rating": 4,
+          "text": "رضاعة ممتازة لتقليل المغص. تنظيفها يحتاج وقتاً بسبب الأجزاء الكثيرة لكن النتيجة تستحق. انتقل طفلي من الرضاعة الطبيعية إليها بسهولة."
+        },
+        {
+          "id": "R028",
+          "lang": "en",
+          "rating": 2,
+          "text": "Leaks from the collar area sometimes. Not sure if I'm assembling it wrong but it's happened more than once. For the price I expected a tighter seal."
+        },
+        {
+          "id": "R029",
+          "lang": "en",
+          "rating": 5,
+          "text": "Best bottle on the market for colic. My baby went from screaming after every feed to being calm and happy. I've recommended it to every new mom I know."
+        },
+        {
+          "id": "R030",
+          "lang": "en",
+          "rating": 3,
+          "text": "Mixed feelings. It helped a bit with gas but not dramatically. The cleaning is genuinely difficult and the parts are fiddly. Works better if you have a dedicated bottle steriliser and brush set."
+        }
+      ]
+    },
+    {
+      "id": "P004",
+      "title": "Ella's Kitchen Organic Baby Cereal — Rice & Mango",
+      "category": "Organic Cereal",
+      "price_aed": 34.00,
+      "rating": 4.2,
+      "description": "100% organic first-stage baby cereal made with wholesome rice and sweet mango. No added sugar, salt, or artificial flavours. Suitable for babies from 4 months. Simply mix with breast milk, formula, or water.",
+      "features": [
+        "100% organic certified ingredients",
+        "No added sugar, salt, or artificial flavours",
+        "Suitable from 4 months",
+        "Easy to mix with breast milk or formula",
+        "Mild mango flavour babies love"
+      ],
+      "reviews": [
+        {
+          "id": "R031",
+          "lang": "en",
+          "rating": 5,
+          "text": "My baby absolutely loves this. She opens her mouth before the spoon even reaches her. The mango flavour is subtle and natural, not artificial at all. Easy to mix and the right consistency."
+        },
+        {
+          "id": "R032",
+          "lang": "en",
+          "rating": 4,
+          "text": "Good organic option. Clean ingredients. Baby accepted it from first try which is rare. The serving size is quite small so a box doesn't last long — stock up on multiple boxes."
+        },
+        {
+          "id": "R033",
+          "lang": "ar",
+          "rating": 5,
+          "text": "حبوب عضوية ممتازة. طفلتي أحبتها من أول ملعقة. لا توجد إضافات صناعية والمكونات نظيفة. سهلة التحضير مع الحليب أو الماء."
+        },
+        {
+          "id": "R034",
+          "lang": "en",
+          "rating": 3,
+          "text": "My baby was not interested at all. Tried mixing with formula and breast milk, both rejected. May just be a preference thing. Quality seems good but we couldn't get past the first stage."
+        },
+        {
+          "id": "R035",
+          "lang": "en",
+          "rating": 4,
+          "text": "Love that it's organic and free of junk. Mixes smoothly. I do wish it came in a bigger pack size — the current box size runs out very quickly once baby is eating twice a day."
+        },
+        {
+          "id": "R036",
+          "lang": "en",
+          "rating": 5,
+          "text": "This was our first weaning food and it worked perfectly. No reactions, no constipation, no fussiness. The mango smell is lovely and baby associates it with something pleasant."
+        },
+        {
+          "id": "R037",
+          "lang": "ar",
+          "rating": 2,
+          "text": "طفلي رفضها تماماً. جربت مرات عديدة بطرق مختلفة. ربما تناسب بعض الأطفال لكنها لم تناسبنا. السعر مرتفع لمنتج يُرفض."
+        },
+        {
+          "id": "R038",
+          "lang": "en",
+          "rating": 4,
+          "text": "Solid weaning food. Gentle on the tummy, no constipation issues which we had with another brand. The rice base is easy for first-stage digestion. Would buy again."
+        },
+        {
+          "id": "R039",
+          "lang": "en",
+          "rating": 5,
+          "text": "Third child and this is still my go-to first cereal. Trusted brand, clean ingredients, babies generally accept it well. Does exactly what a first cereal should do."
+        },
+        {
+          "id": "R040",
+          "lang": "en",
+          "rating": 3,
+          "text": "Decent but a bit pricey for the quantity you get. Quality is fine and ingredients are genuinely organic. Just wish the value was better for frequent buyers."
+        }
+      ]
+    },
+    {
+      "id": "P005",
+      "title": "Sophie la Girafe Teething Toy",
+      "category": "Teething Toy",
+      "price_aed": 115.00,
+      "rating": 4.6,
+      "description": "The iconic natural rubber teething toy, handmade in France since 1961. Made from 100% natural rubber and food paint. Multiple teething points target different areas of gum pain. Squeaks to stimulate baby's senses.",
+      "features": [
+        "100% natural rubber — food-grade and safe",
+        "Multiple chewing surfaces for different gum areas",
+        "Squeaks to stimulate hearing and engagement",
+        "Lightweight and easy for baby to hold",
+        "Made in France since 1961"
+      ],
+      "reviews": [
+        {
+          "id": "R041",
+          "lang": "en",
+          "rating": 5,
+          "text": "Worth every dirham. My baby has had this since 3 months and it is hands down his favourite toy and teether. The squeak keeps him entertained and he chews all different parts."
+        },
+        {
+          "id": "R042",
+          "lang": "en",
+          "rating": 5,
+          "text": "Classic baby toy for a reason. Soft, safe, and my daughter cannot put it down. The natural rubber is clearly different to plastic — softer and more comforting on sore gums."
+        },
+        {
+          "id": "R043",
+          "lang": "ar",
+          "rating": 5,
+          "text": "لعبة رائعة لتخفيف ألم التسنين. طفلي يمسك بها بسهولة ويعضها في كل الأماكن. المطاط الطبيعي آمن تماماً وناعم على اللثة."
+        },
+        {
+          "id": "R044",
+          "lang": "en",
+          "rating": 4,
+          "text": "Great teether, baby loves it. My only concern is the hollow inside — if water gets in through the hole at the bottom during cleaning, mould can develop inside. We dry it upside down and squeeze to check."
+        },
+        {
+          "id": "R045",
+          "lang": "en",
+          "rating": 3,
+          "text": "Overpriced for what it is honestly. It's a rubber giraffe that squeaks. Baby likes it yes, but so does the much cheaper Nuby teether we also have. The brand name adds a lot to the price."
+        },
+        {
+          "id": "R046",
+          "lang": "en",
+          "rating": 5,
+          "text": "Gifted this to my sister for her baby shower and she sends me videos of the baby chewing it daily. Easy to hold, safe materials, just a great baby product."
+        },
+        {
+          "id": "R047",
+          "lang": "ar",
+          "rating": 4,
+          "text": "منتج ممتاز ومشهور عالمياً لسبب وجيه. المطاط الطبيعي أفضل بكثير من البلاستيك. السعر مرتفع لكن الجودة تستحق لراحة الطفل أثناء التسنين."
+        },
+        {
+          "id": "R048",
+          "lang": "en",
+          "rating": 2,
+          "text": "Paid premium price and the paint started chipping on the spots after 6 weeks. Contacted the seller but no response. Concerned about safety with chipped paint going in baby's mouth."
+        },
+        {
+          "id": "R049",
+          "lang": "en",
+          "rating": 5,
+          "text": "Three kids, three Sophies. It's a household staple. Every baby in our family has had one and none of us have had any safety concerns. The quality has been consistent across years."
+        },
+        {
+          "id": "R050",
+          "lang": "en",
+          "rating": 4,
+          "text": "Love the product but agree with others on the mould concern. Make sure to never submerge in water. Wipe clean only. As long as you do that, it's a fantastic teether."
+        }
+      ]
+    },
+    {
+      "id": "P006",
+      "title": "LeapFrog My Pal Scout Learning Toy",
+      "category": "Learning Toy",
+      "price_aed": 145.00,
+      "rating": 4.4,
+      "description": "Interactive plush puppy that personalises learning with the child's name, favourite food, colour, and more via a free app. Plays music, teaches numbers, letters, and emotions. Suitable for ages 6 months to 3 years.",
+      "features": [
+        "Personalise with child's name via free app",
+        "Teaches letters, numbers, shapes, and emotions",
+        "5 learning modes and soothing melodies",
+        "Soft, huggable plush — safe for all ages",
+        "Requires 2 AA batteries (included)"
+      ],
+      "reviews": [
+        {
+          "id": "R051",
+          "lang": "en",
+          "rating": 5,
+          "text": "My son lights up every time Scout says his name. The personalisation feature is genuinely impressive — it's not just a gimmick. He's learning his letters and numbers through the songs without even realising."
+        },
+        {
+          "id": "R052",
+          "lang": "en",
+          "rating": 4,
+          "text": "Really well-made learning toy. The app setup was a little fiddly but once done, Scout is completely personalised. Batteries last a reasonable time. Baby loves cuddling and playing with it."
+        },
+        {
+          "id": "R053",
+          "lang": "ar",
+          "rating": 5,
+          "text": "لعبة تعليمية رائعة. طفلتي تحب الاستماع لاسمها من الدمية. الأغاني تعلم الأرقام والحروف بطريقة ممتعة. جودة المواد ممتازة وناعمة."
+        },
+        {
+          "id": "R054",
+          "lang": "en",
+          "rating": 3,
+          "text": "Fun toy but the app required an account and several steps just to personalise it. Felt like too much friction for what should be simple. Once set up it's good but the onboarding is frustrating."
+        },
+        {
+          "id": "R055",
+          "lang": "en",
+          "rating": 5,
+          "text": "Best educational toy we own. My toddler is now 2 and still plays with Scout daily. He knows his alphabet partly because of this toy. Worth every dirham for the developmental value."
+        },
+        {
+          "id": "R056",
+          "lang": "en",
+          "rating": 4,
+          "text": "Great buy. The songs are catchy and educational without being annoying for parents. My baby has had it since 7 months and engagement is still high at 14 months. Great longevity."
+        },
+        {
+          "id": "R057",
+          "lang": "ar",
+          "rating": 2,
+          "text": "التطبيق لا يعمل بشكل صحيح على هاتفي. جربت عدة مرات لكن الشخصنة لم تكتمل. اللعبة جيدة بدون الشخصنة لكنها لا تستحق السعر بدون هذه الميزة."
+        },
+        {
+          "id": "R058",
+          "lang": "en",
+          "rating": 5,
+          "text": "Gifted this to three different babies and all three families reported back that it became the baby's favourite toy. The name personalisation makes it feel special and unique."
+        },
+        {
+          "id": "R059",
+          "lang": "en",
+          "rating": 3,
+          "text": "Decent toy but batteries drain faster than expected. Went through the included batteries in under 3 weeks with moderate use. Buy rechargeable AAs if you get this."
+        },
+        {
+          "id": "R060",
+          "lang": "en",
+          "rating": 4,
+          "text": "Good educational toy. Scout is lovable and the learning content is well structured. My only note is the app only works in English so not ideal if you want Arabic learning content."
+        }
+      ]
+    },
+    {
+      "id": "P007",
+      "title": "UPPAbaby VISTA V2 Stroller",
+      "category": "Stroller",
+      "price_aed": 3499.00,
+      "rating": 4.7,
+      "description": "Premium all-terrain stroller designed to grow with your family. Converts from single to double configuration. Suitable from birth with included bassinet. Robust aluminium frame, all-wheel suspension, and extendable sun canopy.",
+      "features": [
+        "Converts to double stroller for two children",
+        "All-terrain wheels with suspension on all 4 wheels",
+        "Included bassinet suitable from birth",
+        "Extendable UPF 50+ sun canopy",
+        "Massive under-seat storage basket"
+      ],
+      "reviews": [
+        {
+          "id": "R061",
+          "lang": "en",
+          "rating": 5,
+          "text": "The Rolls Royce of strollers — and it deserves that reputation. We have cobblestones, sand, and mall tiles in Dubai and this stroller handles all of it effortlessly. The suspension is exceptional."
+        },
+        {
+          "id": "R062",
+          "lang": "en",
+          "rating": 5,
+          "text": "Expensive yes, but we've now used it for two kids and it's still in perfect condition. The resale value is also great. It's a genuine long-term investment, not just a purchase."
+        },
+        {
+          "id": "R063",
+          "lang": "ar",
+          "rating": 5,
+          "text": "عربة أطفال استثنائية بكل المقاييس. تتحمل كل أنواع الأسطح وتحويلها من مقعد واحد لمقعدين سهل جداً. حوض النوم مريح جداً للمواليد."
+        },
+        {
+          "id": "R064",
+          "lang": "en",
+          "rating": 4,
+          "text": "Incredible stroller in every way except the size and weight. It's heavy and bulky for car travel — doesn't fit in a smaller car boot easily. Perfect for walking families, less ideal for frequent car users."
+        },
+        {
+          "id": "R065",
+          "lang": "en",
+          "rating": 5,
+          "text": "We've owned 4 strollers. This is the only one we actually kept. Smooth, sturdy, and the storage basket is enormous. The canopy provides real shade — crucial in the UAE summer."
+        },
+        {
+          "id": "R066",
+          "lang": "en",
+          "rating": 4,
+          "text": "Outstanding stroller. The one small downside is the seat recline mechanism is a bit fiddly to operate one-handed while baby is in it. Takes some practice but becomes second nature."
+        },
+        {
+          "id": "R067",
+          "lang": "ar",
+          "rating": 5,
+          "text": "اشتريتها لطفلي الأول ولا تزال تعمل بشكل مثالي مع طفلي الثاني. جودة الصنع استثنائية وتستحق كل درهم. التعليق والتوازن ممتازان على كل الأسطح."
+        },
+        {
+          "id": "R068",
+          "lang": "en",
+          "rating": 3,
+          "text": "Amazing stroller but absolutely massive. Doesn't fit through some restaurant doors or narrow shop aisles here in Dubai. Great for outdoors and malls, frustrating in tight spaces."
+        },
+        {
+          "id": "R069",
+          "lang": "en",
+          "rating": 5,
+          "text": "Best stroller on the market at any price point. The build quality is unmatched, the ride is smooth, and it genuinely grows with your family. Our baby slept better in this than in her cot."
+        },
+        {
+          "id": "R070",
+          "lang": "en",
+          "rating": 4,
+          "text": "Premium product, premium experience. The fold is not the easiest one-handed but manageable. Customer service from UPPAbaby was great when I had a small issue with a wheel — replaced it quickly."
+        }
+      ]
+    },
+    {
+      "id": "P008",
+      "title": "Strider 12 Sport Balance Bike",
+      "category": "Balance Bike",
+      "price_aed": 389.00,
+      "rating": 4.8,
+      "description": "Award-winning balance bike for children aged 18 months to 5 years. No pedals, no training wheels — children learn to balance naturally. Ultra-lightweight at just 3.0 kg. Adjustable seat and handlebar height.",
+      "features": [
+        "Ultra-lightweight at 3.0 kg",
+        "No pedals — builds natural balance and coordination",
+        "Fully adjustable seat and handlebars",
+        "Puncture-proof foam tyres",
+        "Suitable for ages 18 months to 5 years"
+      ],
+      "reviews": [
+        {
+          "id": "R071",
+          "lang": "en",
+          "rating": 5,
+          "text": "My son went from this to a pedal bike with zero training wheels at age 3. Balance bikes are genuinely the best way to teach kids to ride and Strider is the best balance bike. Lightweight and durable."
+        },
+        {
+          "id": "R072",
+          "lang": "en",
+          "rating": 5,
+          "text": "Both my kids learned on Strider. My daughter started at 18 months and was gliding confidently by 2. The adjustability means it grows with the child for years."
+        },
+        {
+          "id": "R073",
+          "lang": "ar",
+          "rating": 5,
+          "text": "دراجة رائعة لتعليم التوازن. طفلي بدأ باستخدامها عند عمر سنتين وأصبح يتحكم بها بشكل ممتاز خلال أسابيع. الوزن الخفيف مميز جداً لصغار السن."
+        },
+        {
+          "id": "R074",
+          "lang": "en",
+          "rating": 5,
+          "text": "Great balance bike. The foam tyres mean zero maintenance which is a huge plus. No flats ever, no pump needed. Perfect for the parks here in Abu Dhabi."
+        },
+        {
+          "id": "R075",
+          "lang": "en",
+          "rating": 5,
+          "text": "The methodology works. Balance before pedals. My 3-year-old is already gliding with both feet off the ground. The Strider is light enough that she can pick it up herself when she falls."
+        },
+        {
+          "id": "R076",
+          "lang": "en",
+          "rating": 5,
+          "text": "Solid bike. Well made and will last years. The seat adjustment is easy and the foam tyres are genuinely puncture proof — we've ridden over gravel and thorns without any issue."
+        },
+        {
+          "id": "R077",
+          "lang": "ar",
+          "rating": 5,
+          "text": "منتج ممتاز لتعليم الأطفال التوازن. خفيف الوزن جداً وسهل التعديل. الإطارات المصمتة تعني عدم الحاجة لضخ الهواء. ننصح به لكل طفل."
+        },
+        {
+          "id": "R078",
+          "lang": "en",
+          "rating": 4,
+          "text": "Good concept and execution. My son likes it. My only gripe is the handlebars are quite narrow which felt limiting. He's on the bigger side for his age so may not apply to all kids."
+        },
+        {
+          "id": "R079",
+          "lang": "en",
+          "rating": 5,
+          "text": "Couldn't recommend more highly. My son was on a pedal bike at 2.5 after starting on the Strider at 18 months. The foam tyres are a brilliant feature — no flats, no pump needed."
+        },
+        {
+          "id": "R080",
+          "lang": "en",
+          "rating": 5,
+          "text": "Well designed and built to last. The colour options are great and my daughter was immediately attracted to her pink one. Assembly took 5 minutes. Excellent first bike."
+        }
+      ]
+    },
+    {
+      "id": "P009",
+      "title": "H&M Organic Cotton Bodysuit 3-Pack",
+      "category": "Cotton Bodysuit",
+      "price_aed": 69.00,
+      "rating": 3.8,
+      "description": "Set of 3 short-sleeved bodysuits made from GOTS-certified organic cotton. Envelope neckline for easy dressing. Nickel-free snap buttons at the bottom. Available in sizes Newborn to 18 months.",
+      "features": [
+        "100% GOTS-certified organic cotton",
+        "Envelope neckline — pull over or slide down for nappy changes",
+        "Nickel-free snap buttons",
+        "Pre-washed for immediate softness",
+        "3-pack value set"
+      ],
+      "reviews": [
+        {
+          "id": "R081",
+          "lang": "en",
+          "rating": 4,
+          "text": "Very soft and gentle on baby skin. The organic cotton is noticeably softer than regular cotton. The envelope neckline is a lifesaver for blowouts — no need to pull over the head."
+        },
+        {
+          "id": "R082",
+          "lang": "en",
+          "rating": 3,
+          "text": "Decent quality for the price. Sizing runs small — bought 3-6 months and they fit like 0-3. Would recommend sizing up one. Colour faded a little after multiple washes."
+        },
+        {
+          "id": "R083",
+          "lang": "ar",
+          "rating": 4,
+          "text": "قطن ناعم جداً ومريح للمولود. الأزرار الأمامية سهلة الاستخدام. القطن العضوي لطيف على البشرة الحساسة. نوصي بأخذ مقاس أكبر لأن المقاسات صغيرة نسبياً."
+        },
+        {
+          "id": "R084",
+          "lang": "en",
+          "rating": 2,
+          "text": "Disappointed with quality. The snap buttons on two of the three bodysuits started to feel loose after about 3 weeks. For a baby item that gets washed daily, the durability is not good enough."
+        },
+        {
+          "id": "R085",
+          "lang": "en",
+          "rating": 5,
+          "text": "Perfect everyday baby basic. Super soft, easy to use, and the 3-pack is great value. We have them in every size. The organic certification matters to us and the quality reflects it."
+        },
+        {
+          "id": "R086",
+          "lang": "en",
+          "rating": 4,
+          "text": "Good quality baby essentials. The cotton is genuinely soft and breathable — important in the UAE heat. Snaps are strong. Would buy again and stock multiple sizes."
+        },
+        {
+          "id": "R087",
+          "lang": "ar",
+          "rating": 3,
+          "text": "جودة مقبولة لكن المقاسات غير دقيقة. اشتريت مقاس ٣-٦ أشهر وكان صغيراً جداً. القطن ناعم لكن الألوان باهتت بعد الغسيل المتكرر."
+        },
+        {
+          "id": "R088",
+          "lang": "en",
+          "rating": 3,
+          "text": "Fine for the price point. Not exceptional. The organic cotton is a nice touch. My issue is the colours in real life are duller than the photos on the website. Still usable just not as vibrant."
+        },
+        {
+          "id": "R089",
+          "lang": "en",
+          "rating": 5,
+          "text": "We live in Dubai so breathable organic cotton for summer is essential. These bodysuits are perfect — lightweight, soft, and the envelope neck makes night changes quick."
+        },
+        {
+          "id": "R090",
+          "lang": "en",
+          "rating": 2,
+          "text": "Really inconsistent sizing across the pack. Two fit fine and one was noticeably smaller despite being the same labeled size. Quality control seems off. Organic cotton is nice though."
+        }
+      ]
+    },
+    {
+      "id": "P010",
+      "title": "Stride Rite Soft Motion Ellie Baby Shoes",
+      "category": "Baby Shoes",
+      "price_aed": 185.00,
+      "rating": 3.0,
+      "description": "Developmental first-walking shoes designed by pediatric footwear experts. Ultra-flexible sole mimics barefoot walking. Wide toe box for natural toe spread. Soft leather upper with easy hook-and-loop closure.",
+      "features": [
+        "Pediatric expert-designed for first walkers",
+        "Ultra-flexible sole for natural foot movement",
+        "Wide toe box supports healthy toe development",
+        "Easy hook-and-loop closure — no laces",
+        "Soft genuine leather upper"
+      ],
+      "reviews": [
+        {
+          "id": "R091",
+          "lang": "en",
+          "rating": 5,
+          "text": "Recommended by our pediatrician for first steps. The sole flexibility is remarkable — you can bend it completely in half. My daughter doesn't even notice she's wearing shoes which is exactly what you want."
+        },
+        {
+          "id": "R092",
+          "lang": "en",
+          "rating": 2,
+          "text": "Great first walker shoe in theory but the velcro wore out in 5 weeks. For AED 185 I expect this to last at least a season. Returned it."
+        },
+        {
+          "id": "R093",
+          "lang": "ar",
+          "rating": 4,
+          "text": "حذاء ممتاز للخطوات الأولى. النعل مرن جداً يشبه المشي حافي القدمين. مساحة مشط القدم واسعة ومريحة. الإغلاق السهل مفيد جداً للأمهات."
+        },
+        {
+          "id": "R094",
+          "lang": "en",
+          "rating": 1,
+          "text": "Very expensive for baby shoes that are outgrown in 2-3 months. The velcro started fraying after 3 weeks. Absolute waste of money at this price point."
+        },
+        {
+          "id": "R095",
+          "lang": "en",
+          "rating": 5,
+          "text": "Best first walker shoes. My son started walking confidently much faster once we switched to these from a stiffer shoe. The flexibility matters more than most people realise."
+        },
+        {
+          "id": "R096",
+          "lang": "en",
+          "rating": 2,
+          "text": "Sizing is inconsistent. Ordered size 4 and they ran very small. Had to exchange for a 5. The leather scuffs after just one week outdoors. Not worth the premium price."
+        },
+        {
+          "id": "R097",
+          "lang": "ar",
+          "rating": 2,
+          "text": "الحذاء غير متين على الإطلاق. الجلد يخدش بسهولة والخياطة بدأت تتفكك بعد أسابيع قليلة. السعر مرتفع جداً مقارنة بالجودة المقدمة."
+        },
+        {
+          "id": "R098",
+          "lang": "en",
+          "rating": 4,
+          "text": "Solid first shoe for indoor use. The velcro closure is easy and the sole is genuinely flexible. Just avoid using outdoors heavily — the leather doesn't hold up."
+        },
+        {
+          "id": "R099",
+          "lang": "en",
+          "rating": 1,
+          "text": "Inner lining separated from the shoe after 5 weeks. Baby shoes must survive rough daily handling and washing — these simply don't. Avoid at this price."
+        },
+        {
+          "id": "R100",
+          "lang": "en",
+          "rating": 2,
+          "text": "Good concept, very poor execution. Stitching on the toe box came loose within a month. The design philosophy is right but the build quality lets it down badly."
+        }
+      ]
+    },
+    {
+      "id": "P011",
+      "title": "NovaBorn Bamboo Sleep Sack 1.0 TOG",
+      "category": "Sleepwear",
+      "price_aed": 129.00,
+      "rating": 3.5,
+      "description": "Lightweight bamboo-blend sleep sack designed for babies 3–18 months. 1.0 TOG rating suitable for year-round use in air-conditioned rooms. Two-way zipper for easy night changes. OEKO-TEX certified fabric.",
+      "features": [
+        "Bamboo-blend fabric — soft, breathable, and temperature-regulating",
+        "1.0 TOG — suitable for 20–24°C room temperature",
+        "Two-way zipper for bottom-up nappy changes",
+        "OEKO-TEX certified — free from harmful substances",
+        "Available in sizes 3–9M and 9–18M"
+      ],
+      "reviews": [
+        {
+          "id": "R101",
+          "lang": "en",
+          "rating": 5,
+          "text": "Incredibly soft fabric. My baby slept longer stretches the first night we used it. The two-way zip is genuinely useful for night changes without fully unwrapping."
+        },
+        {
+          "id": "R102",
+          "lang": "en",
+          "rating": 2,
+          "text": "The zipper broke after the third wash. For AED 129 I expect better quality control. The fabric feels nice but durability is a real concern. Would not repurchase."
+        },
+        {
+          "id": "R103",
+          "lang": "ar",
+          "rating": 4,
+          "text": "قماش ناعم جداً ومريح. طفلي ينام بهدوء أكثر منذ استخدامنا له. السحاب من الأسفل مفيد جداً لتغيير الحفاضة ليلاً دون إيقاظ الطفل."
+        }
+      ]
+    }
+  ]
+}
