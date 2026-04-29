@@ -1,0 +1,146 @@
+[
+  {
+    "test_id": "T01",
+    "product_id": "P001",
+    "language": "en",
+    "baby_age": "2 months",
+    "concern": "sensitive skin",
+    "expected_fit_rating": "Excellent Fit",
+    "expected_confidence": "High",
+    "purpose": "Strong positive consensus aligned with concern"
+  },
+  {
+    "test_id": "T02",
+    "product_id": "P002",
+    "language": "en",
+    "baby_age": "6 months",
+    "concern": "budget friendly option",
+    "expected_fit_rating": "Good Fit",
+    "expected_confidence": "High",
+    "purpose": "Mostly positive with minor tradeoffs"
+  },
+  {
+    "test_id": "T03",
+    "product_id": "P003",
+    "language": "en",
+    "baby_age": "4 months",
+    "concern": "colic issues",
+    "expected_fit_rating": "Moderate Fit",
+    "expected_confidence": "Medium",
+    "purpose": "Mixed sentiment with conflicting reviews"
+  },
+  {
+    "test_id": "T04",
+    "product_id": "P004",
+    "language": "en",
+    "baby_age": "newborn",
+    "concern": "eczema prone skin",
+    "expected_fit_rating": "Low Fit",
+    "expected_confidence": "Medium",
+    "purpose": "Negative feedback and poor suitability"
+  },
+  {
+    "test_id": "T05",
+    "product_id": "P005",
+    "language": "en",
+    "baby_age": "1 year",
+    "concern": "starting solids",
+    "expected_fit_rating": "Insufficient Data",
+    "expected_confidence": "Low",
+    "purpose": "Sparse reviews → system should refuse confident output"
+  },
+  {
+    "test_id": "T06",
+    "product_id": "P006",
+    "language": "ar",
+    "baby_age": "18 months",
+    "concern": "تعليم الحروف",
+    "expected_fit_rating": "Good Fit",
+    "expected_confidence": "High",
+    "purpose": "Arabic output with clear positive learning use-case"
+  },
+  {
+    "test_id": "T07",
+    "product_id": "P007",
+    "language": "ar",
+    "baby_age": "2 years",
+    "concern": "سهل التنظيف",
+    "expected_fit_rating": "Moderate Fit",
+    "expected_confidence": "Medium",
+    "purpose": "Arabic mixed-use practicality case"
+  },
+  {
+    "test_id": "T08",
+    "product_id": "P008",
+    "language": "en",
+    "baby_age": "3 years",
+    "concern": "travel use",
+    "expected_fit_rating": "Excellent Fit",
+    "expected_confidence": "High",
+    "purpose": "Strong alignment with mobility use case"
+  },
+  {
+    "test_id": "T09",
+    "product_id": "P009",
+    "language": "en",
+    "baby_age": "10 months",
+    "concern": "picky eater",
+    "expected_fit_rating": "Moderate Fit",
+    "expected_confidence": "Medium",
+    "purpose": "Food product with inconsistent acceptance"
+  },
+  {
+    "test_id": "T10",
+    "product_id": "P010",
+    "language": "en",
+    "baby_age": "6 months",
+    "concern": "allergy concern",
+    "expected_fit_rating": "Low Fit",
+    "expected_confidence": "Medium",
+    "purpose": "Health-sensitive scenario with weak supporting evidence"
+  },
+  {
+    "test_id": "T11",
+    "product_id": "P001",
+    "language": "ar",
+    "baby_age": "2 months",
+    "concern": "بشرة حساسة",
+    "expected_fit_rating": "Excellent Fit",
+    "expected_confidence": "High",
+    "purpose": "Arabic equivalent of strong relevance case"
+  },
+  {
+    "test_id": "T12",
+    "product_id": "P006",
+    "language": "en",
+    "baby_age": "7 months",
+    "concern": "night leaks",
+    "expected_fit_rating": "Insufficient Data",
+    "expected_confidence": "Low",
+    "purpose": "Irrelevant concern → system should not hallucinate relevance"
+  },
+
+  
+  {
+    "test_id": "T13",
+    "product_id": "P002",
+    "language": "en",
+    "baby_age": "6 months",
+    "concern": "sensitive skin",
+    "expected_fit_rating": "Moderate Fit",
+    "expected_confidence": "High",
+    "purpose": "High-rated product but not tailored for specific concern"
+  },
+
+  
+  {
+    "test_id": "T14",
+    "product_id": "P003",
+    "language": "en",
+    "baby_age": "4 months",
+    "concern": "general use",
+    "expected_fit_rating": "Moderate Fit",
+    "expected_confidence": "Medium",
+    "purpose": "High volume but conflicting reviews should reduce certainty"
+  }
+]
