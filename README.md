@@ -1,13 +1,44 @@
 # 🍼 Mumzworld AI Product Reality Check
 
-An AI-powered product evaluation system that converts **product data + customer reviews** into structured, decision-ready recommendations for parents.
+1. Track
 
-It combines:
-- Deterministic scoring (confidence + fit rating)
-- LLM-based reasoning (verdict + evidence)
-- Clean review preprocessing
-- Streamlit UI for interactive product analysis
+Track A — AI Engineering Intern
 
+---
+
+2. Summary
+
+This project builds an AI-powered product decision support system for mothers shopping on Mumzworld. It transforms raw product data and customer reviews into structured, decision-ready insights such as fit rating, strengths, drawbacks, and a confidence score. The system is designed for parents who struggle with conflicting reviews and decision fatigue, helping them quickly understand whether a product is suitable for their baby’s needs. It combines deterministic logic (confidence scoring, thresholds) with LLM-based reasoning (evidence extraction and verdict generation) to ensure outputs are both reliable and explainable.
+
+---
+
+3. Loom walkthrough
+
+🎥 Loom Video: [Demo](https://www.loom.com/share/440665f4af46440e934b6c2a48fd25a7)
+
+---
+
+4. AI usage note 
+* OpenRouter + poolside/laguna-m.1:free used for structured product analysis and multilingual output
+* LLM used for reasoning, evidence extraction, and summarization
+* Prompt engineering used to enforce strict JSON outputs and reduce hallucination
+* AI assistants (ChatGPT / Claude/ VS code AI agent) used for pair programming, schema design, and refactoring
+* Deterministic logic used to override critical decisions (fit rating, confidence)
+---
+
+5. Markdown deliverables
+* EVALS.md → Evaluation design, test cases, results [Link](https://github.com/Anusha1901/Mumzworld-AI-Product-Reality-Check/blob/main/Evals.md)
+* TRADEOFFS.md → Design decisions, architecture tradeoffs  [Link](https://github.com/Anusha1901/Mumzworld-AI-Product-Reality-Check/blob/main/Tradeoffs.md)
+
+---
+
+
+6. Time log 
+* Problem scoping & design: ~2 hour
+* Pipeline + LLM integration: ~1.5 hours
+* Evaluation framework: ~1 hour
+* UI + debugging: ~1.5 hour
+* Total: ~6 hours
 ---
 
 ## 🚀 Setup & Run (≤ 5 minutes)
